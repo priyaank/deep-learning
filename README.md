@@ -34,6 +34,7 @@ Courses
 - [Machine Learning - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 - [Neural Networks - usherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 
+
 Video and Lectures
 ------------------
 
@@ -47,6 +48,10 @@ Video and Lectures
 - [Making Sense of the World with Deep Learning](http://vimeo.com/80821560) *By Adam Coates*
 - [Demystifying Unsupervised Feature Learning](https://www.youtube.com/watch?v=wZfVBwOO0-k) *By Adam Coates*
 - [Visual Perception with Deep Learning](https://www.youtube.com/watch?v=3boKlkPBckA) *By Yann LeCun*
+- [Natural Language Processing](http://web.stanford.edu/class/cs224n/handouts/) By Chris Manning in Stanford
+- [Unsupervised Deep Learning - Stanford](http://web.stanford.edu/class/cs294a/handouts.html) by Andrew Ng in Stanford
+- [The wonderful and terrifying implications of computers that can learn](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn) By Jeremy Howard at TEDxBrussels
+- [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M) By Geoffrey Hinton at GoogleTechTalks
  
 
 Papers
@@ -56,7 +61,7 @@ Papers
 - [Using Very Deep Autoencoders for Content Based Image Retrieval](http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)
 - [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)
 - [CMU’s list of papers](http://deeplearning.cs.cmu.edu/)
-- 
+
  
 Tutorials
 ---------
