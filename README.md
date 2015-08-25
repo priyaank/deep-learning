@@ -115,6 +115,28 @@ WebSites
 
 - [deeplearning.net](http://deeplearning.net/)
 - [deeplearning.stanford.edu](http://deeplearning.stanford.edu/)
+- [Deep Learning News](http://news.startup.ml/)
+- [nlp.stanford.edu](http://nlp.stanford.edu/)
+- [ai-junkie.com](http://www.ai-junkie.com/ann/evolved/nnt1.html)
+- [cs.brown.edu/research/ai](http://cs.brown.edu/research/ai/)
+- [eecs.umich.edu/ai](http://www.eecs.umich.edu/ai/)
+- [cs.utexas.edu/users/ai-lab](http://www.cs.utexas.edu/users/ai-lab/)
+- [cs.washington.edu/research/ai](http://www.cs.washington.edu/research/ai/)
+- [aiai.ed.ac.uk](http://www.aiai.ed.ac.uk/)
+- [www-aig.jpl.nasa.gov](http://www-aig.jpl.nasa.gov/)
+- [csail.mit.edu](http://www.csail.mit.edu/)
+- [cgi.cse.unsw.edu.au/~aishare](http://cgi.cse.unsw.edu.au/~aishare/)
+- [cs.rochester.edu/research/ai](http://www.cs.rochester.edu/research/ai/)
+- [ai.sri.com](http://www.ai.sri.com/)
+- [isi.edu/AI/isd.htm](http://www.isi.edu/AI/isd.htm)
+- [nrl.navy.mil/itd/aic](http://www.nrl.navy.mil/itd/aic/)
+- [hips.seas.harvard.edu](http://hips.seas.harvard.edu/)
+- [AI Weekly](http://aiweekly.co)
+- [stat.ucla.edu](http://www.stat.ucla.edu/~junhua.mao/m-RNN.html)
+- [deeplearning.cs.toronto.edu](http://deeplearning.cs.toronto.edu/i2t)
+- [jeffdonahue.com/lrcn/](http://jeffdonahue.com/lrcn/)
+- [visualqa.org](http://www.visualqa.org/)
+- [www.mpi-inf.mpg.de/departments/computer-vision...](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/)
 
 
 Datasets
