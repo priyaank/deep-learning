@@ -101,6 +101,13 @@ Tutorials
 - [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
 - [Deep Learning (Python, C/C++, Java, Scala, Go)](https://github.com/yusugomori/DeepLearning)
 - [Deep Learning for Java, Scala & Clojure on Hadoop, Spark & GPUs](https://github.com/deeplearning4j/deeplearning4j)
+- [Deep Learning from the Bottom up](http://www.metacademy.org/roadmaps/rgrosse/deep_learning)
+- [Theano Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
+- [Neural Networks for Matlab](http://uk.mathworks.com/help/pdf_doc/nnet/nnet_ug.pdf)
+- [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
+- [Torch7 Tutorials](http://code.madbits.com/wiki/doku.php)
+- [The Best Machine Learning Tutorials On The Web] (https://github.com/josephmisiti/machine-learning-module)
+- [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
 
 
 WebSites
