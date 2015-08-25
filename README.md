@@ -43,7 +43,7 @@ Papers
 - [Using Very Deep Autoencoders for Content Based Image Retrieval](http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)
 - [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)
 - [CMU’s list of papers](http://deeplearning.cs.cmu.edu/)
-
+- 
  
 Tutorials
 ---------
@@ -52,7 +52,9 @@ Tutorials
 - [UFLDL Tutorial 2](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
 - [Deep Learning for NLP](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
 - [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
- 
+- [Deep Learning (Python, C/C++, Java, Scala, Go)](https://github.com/yusugomori/DeepLearning)
+- [Deep Learning for Java, Scala & Clojure on Hadoop, Spark & GPUs](https://github.com/deeplearning4j/deeplearning4j)
+
 
 WebSites
 --------
