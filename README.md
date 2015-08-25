@@ -108,6 +108,7 @@ Tutorials
 - [Torch7 Tutorials](http://code.madbits.com/wiki/doku.php)
 - [The Best Machine Learning Tutorials On The Web] (https://github.com/josephmisiti/machine-learning-module)
 - [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
+- [Deep learning in Python](https://github.com/andersbll/deeppy)
 
 
 WebSites
