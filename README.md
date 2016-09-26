@@ -288,6 +288,22 @@ Frameworks
 - [RNNLIB - A recurrent neural network library](http://sourceforge.net/p/rnnl/wiki/Home/)
 - [char-rnn](https://github.com/karpathy/char-rnn)
 - [MatConvNet: CNNs for MATLAB](https://github.com/vlfeat/matconvnet)
+- [convetjs](https://github.com/karpathy/convnetjs)
+- [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle)
+- [mlpack - A scalable Machine Learning library](http://mlpack.org/)
+- [Torchnet - Torch based Deep Learning Library](https://github.com/torchnet/torchnet)
+- [SyntaxNet - Google's syntactic parser - A TensorFlow dependency library](https://github.com/tensorflow/models/tree/master/syntaxnet)
+- [DSSTNE - Amazon's library for building Deep Learning models](https://github.com/amznlabs/amazon-dsstne)
+- [Apache SINGA - A General Distributed Deep Learning Platform](http://singa.incubator.apache.org/)
+- [Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework](https://github.com/PrincetonVision/marvin)
+- [Veles - Samsung Distributed machine learning platform](https://github.com/Samsung/veles)
+- [MXnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning framework](https://github.com/dmlc/mxnet/)
+- [Scikit Flow - Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/google/skflow)
+- [DMTK - Microsoft Distributed Machine Learning Tookit](https://github.com/Microsoft/DMTK)
+- [Tensorflow - Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
+- [Brainstorm - Fast, flexible and fun neural networks.](https://github.com/IDSIA/brainstorm)
+- [Minerva - a fast and flexible tool for deep learning on multi-GPU](https://github.com/dmlc/minerva)
+
 
 
 Miscellaneous
